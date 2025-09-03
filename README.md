@@ -23,3 +23,4 @@ Outputs: Annual (and optionally seasonal) T-year return level rasters and figure
 
 
 <img width="1275" height="610" alt="image" src="https://github.com/user-attachments/assets/c2307b43-ee34-4c11-91b2-6c928dd9e178" />
+<img width="1275" height="614" alt="image" src="https://github.com/user-attachments/assets/237673c5-70ff-4a65-af39-f9fc6f662eef" />
